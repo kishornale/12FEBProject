@@ -8,6 +8,7 @@ public class class1
 	public void method1()
 	{
 		System.out.println("Hi");
+		System.out.println("How are you?");
 	}
 
 }
