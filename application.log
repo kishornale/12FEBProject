@@ -1,0 +1,180 @@
+2022-06-14 20:05:34,868  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-14 20:05:41,183  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-14 20:05:42,691  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-14 20:05:42,834  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-14 20:05:44,557  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-14 20:05:44,570  INFO [main] SauceDemoProjectv1:16 - Verify the test case
+2022-06-14 20:05:44,821  INFO [main] SauceDemoProjectv1:24 - menu button clicked
+2022-06-14 20:05:45,235  INFO [main] SauceDemoProjectv1:26 - logout button clicked
+2022-06-14 20:05:46,663  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-14 20:05:53,002  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-14 20:06:06,349  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-14 20:06:11,309  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-14 20:06:11,654  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-14 20:06:13,508  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-14 20:06:13,677  INFO [main] SauceDemoProjectv1:15 - menu button clicked
+2022-06-14 20:06:14,578  INFO [main] SauceDemoProjectv1:17 - logout button clicked
+2022-06-14 20:06:14,583  INFO [main] SauceDemoProjectv1:18 - Verify the test case
+2022-06-14 20:06:15,189  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-14 20:06:19,666  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-14 20:06:24,049  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-14 20:06:24,363  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-14 20:06:24,481  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-14 20:06:26,100  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-14 20:06:26,252  INFO [main] SauceDemoProjectv1:15 - Clicked on Add to cart for bagpack
+2022-06-14 20:06:26,253  INFO [main] SauceDemoProjectv1:17 - Apply validation
+2022-06-14 20:06:26,430  INFO [main] SauceDemoProjectv1:26 - menu button clicked
+2022-06-14 20:06:26,574  INFO [main] SauceDemoProjectv1:28 - logout button clicked
+2022-06-14 20:06:26,922  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-14 20:06:30,620  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-14 20:06:34,637  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-14 20:06:34,925  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-14 20:06:35,040  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-14 20:06:35,747  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-14 20:06:36,150  INFO [main] SauceDemoProjectv1:15 - clicked on add to cart
+2022-06-14 20:06:36,150  INFO [main] SauceDemoProjectv1:17 - Apply validation
+2022-06-14 20:06:36,546  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 08:58:07,951  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 08:58:12,774  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 08:58:18,945  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 08:58:19,356  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 08:58:26,906  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 08:58:26,919  INFO [main] SauceDemoProjectv1:17 - Verify the test case
+2022-06-15 08:58:27,345  INFO [main] SauceDemoProjectv1:25 - menu button clicked
+2022-06-15 08:58:28,339  INFO [main] SauceDemoProjectv1:27 - logout button clicked
+2022-06-15 08:58:31,378  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 08:58:43,313  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 08:58:45,172  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 08:58:45,453  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 08:58:45,578  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 08:58:46,015  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 08:58:46,172  INFO [main] SauceDemoProjectv1:16 - menu button clicked
+2022-06-15 08:58:46,477  INFO [main] SauceDemoProjectv1:18 - logout button clicked
+2022-06-15 08:58:46,480  INFO [main] SauceDemoProjectv1:19 - Verify the test case
+2022-06-15 08:58:48,261  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 08:58:51,434  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 08:58:56,028  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 08:58:56,326  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 08:58:56,455  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 08:58:57,934  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 08:58:59,340  INFO [main] SauceDemoProjectv1:16 - Clicked on Add to cart for bagpack
+2022-06-15 08:58:59,340  INFO [main] SauceDemoProjectv1:18 - Apply validation
+2022-06-15 08:59:01,340  INFO [main] SauceDemoProjectv1:27 - menu button clicked
+2022-06-15 08:59:01,610  INFO [main] SauceDemoProjectv1:29 - logout button clicked
+2022-06-15 08:59:02,001  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 08:59:06,756  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 08:59:14,537  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 08:59:14,816  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 08:59:14,947  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 08:59:17,557  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 08:59:18,510  INFO [main] SauceDemoProjectv1:16 - clicked on add to cart
+2022-06-15 08:59:18,511  INFO [main] SauceDemoProjectv1:18 - Apply validation
+2022-06-15 08:59:23,823  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 09:00:34,222  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 09:00:38,722  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 09:00:39,198  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 09:00:39,331  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 09:00:40,670  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 09:00:40,687  INFO [main] SauceDemoProjectv1:17 - Verify the test case
+2022-06-15 09:00:40,935  INFO [main] SauceDemoProjectv1:25 - menu button clicked
+2022-06-15 09:00:41,572  INFO [main] SauceDemoProjectv1:27 - logout button clicked
+2022-06-15 09:00:42,184  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 09:00:44,406  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 09:00:52,370  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 09:00:52,655  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 09:00:52,781  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 09:00:55,713  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 09:00:55,939  INFO [main] SauceDemoProjectv1:16 - menu button clicked
+2022-06-15 09:00:56,161  INFO [main] SauceDemoProjectv1:18 - logout button clicked
+2022-06-15 09:00:56,164  INFO [main] SauceDemoProjectv1:19 - Verify the test case
+2022-06-15 09:00:57,641  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 09:00:58,917  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 09:01:03,512  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 09:01:03,826  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 09:01:03,969  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 09:01:04,159  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 09:01:04,256  INFO [main] SauceDemoProjectv1:16 - Clicked on Add to cart for bagpack
+2022-06-15 09:01:04,256  INFO [main] SauceDemoProjectv1:18 - Apply validation
+2022-06-15 09:01:04,370  INFO [main] SauceDemoProjectv1:27 - menu button clicked
+2022-06-15 09:01:04,512  INFO [main] SauceDemoProjectv1:29 - logout button clicked
+2022-06-15 09:01:04,900  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 09:01:06,327  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 09:01:10,320  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 09:01:10,599  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 09:01:10,725  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 09:01:10,892  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 09:01:11,264  INFO [main] SauceDemoProjectv1:16 - clicked on add to cart
+2022-06-15 09:01:11,265  INFO [main] SauceDemoProjectv1:18 - Apply validation
+2022-06-15 09:01:11,731  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 15:15:47,210  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 15:15:50,429  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 15:15:53,178  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 15:15:53,759  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 15:15:55,952  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 15:15:56,029  INFO [main] SauceDemoProjectv1:17 - Verify the test case
+2022-06-15 15:15:58,791  INFO [main] SauceDemoProjectv1:25 - menu button clicked
+2022-06-15 15:15:59,739  INFO [main] SauceDemoProjectv1:27 - logout button clicked
+2022-06-15 15:16:01,883  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 15:16:07,239  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 15:16:13,984  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 15:16:14,423  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 15:16:14,723  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 15:16:19,386  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 15:16:19,748  INFO [main] SauceDemoProjectv1:16 - menu button clicked
+2022-06-15 15:16:20,046  INFO [main] SauceDemoProjectv1:18 - logout button clicked
+2022-06-15 15:16:20,050  INFO [main] SauceDemoProjectv1:19 - Verify the test case
+2022-06-15 15:16:21,783  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 15:16:25,945  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 15:16:35,351  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 15:16:35,718  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 15:16:35,947  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 15:16:40,581  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 15:16:41,348  INFO [main] SauceDemoProjectv1:16 - Clicked on Add to cart for bagpack
+2022-06-15 15:16:41,350  INFO [main] SauceDemoProjectv1:18 - Apply validation
+2022-06-15 15:16:42,017  INFO [main] SauceDemoProjectv1:27 - menu button clicked
+2022-06-15 15:16:42,199  INFO [main] SauceDemoProjectv1:29 - logout button clicked
+2022-06-15 15:16:43,925  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 15:16:50,961  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 15:16:57,922  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 15:16:58,258  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 15:16:58,415  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 15:17:01,468  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 15:17:02,859  INFO [main] SauceDemoProjectv1:16 - clicked on add to cart
+2022-06-15 15:17:02,859  INFO [main] SauceDemoProjectv1:18 - Apply validation
+2022-06-15 15:17:06,769  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 15:28:13,448  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 15:28:14,488  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 15:28:16,171  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 15:28:16,296  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 15:28:17,865  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 15:28:17,879  INFO [main] SauceDemoProjectv1:17 - Verify the test case
+2022-06-15 15:28:18,395  INFO [main] SauceDemoProjectv1:25 - menu button clicked
+2022-06-15 15:28:18,587  INFO [main] SauceDemoProjectv1:27 - logout button clicked
+2022-06-15 15:28:19,398  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 15:28:28,032  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 15:28:29,814  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 15:28:30,108  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 15:28:30,257  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 15:28:32,395  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 15:28:32,506  INFO [main] SauceDemoProjectv1:16 - menu button clicked
+2022-06-15 15:28:33,288  INFO [main] SauceDemoProjectv1:18 - logout button clicked
+2022-06-15 15:28:33,290  INFO [main] SauceDemoProjectv1:19 - Verify the test case
+2022-06-15 15:28:33,850  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 15:28:37,346  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 15:28:42,720  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 15:28:43,026  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 15:28:43,150  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 15:28:46,360  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 15:28:46,663  INFO [main] SauceDemoProjectv1:16 - Clicked on Add to cart for bagpack
+2022-06-15 15:28:46,664  INFO [main] SauceDemoProjectv1:18 - Apply validation
+2022-06-15 15:28:46,893  INFO [main] SauceDemoProjectv1:27 - menu button clicked
+2022-06-15 15:28:47,020  INFO [main] SauceDemoProjectv1:29 - logout button clicked
+2022-06-15 15:28:47,369  INFO [main] SauceDemoProjectv1:58 - End of Program
+2022-06-15 15:28:51,988  INFO [main] SauceDemoProjectv1:38 - Browser is opened
+2022-06-15 15:28:57,921  INFO [main] SauceDemoProjectv1:40 - URL is entered
+2022-06-15 15:28:58,222  INFO [main] SauceDemoProjectv1:47 - username is entered
+2022-06-15 15:28:58,452  INFO [main] SauceDemoProjectv1:49 - password is entered
+2022-06-15 15:29:00,469  INFO [main] SauceDemoProjectv1:51 - login button clicked
+2022-06-15 15:29:01,275  INFO [main] SauceDemoProjectv1:16 - clicked on add to cart
+2022-06-15 15:29:01,275  INFO [main] SauceDemoProjectv1:18 - Apply validation
+2022-06-15 15:29:03,499  INFO [main] SauceDemoProjectv1:58 - End of Program
